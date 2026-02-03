@@ -25,17 +25,6 @@ python ditherGirl.py
 
 ---
 
-## Features
-
-Load a target image (the image you want to recreate)
-Load a tile image (the image whose tiles will be used)
-Adjustable tile size (5-100 pixels)
-Adjustable output width (200-3000 pixels)
-Real-time preview of the generated photomosaic
-Export to PNG or JPEG
-
----
-
 ## How to Use
 
 🎨 Layer System:
