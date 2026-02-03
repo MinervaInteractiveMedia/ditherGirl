@@ -3,6 +3,10 @@ A small python program that applies dithering algorithms in layers to an image. 
 
 https://studioaaa.com/product/dither-boy/
 
+<img width="1493" height="2100" alt="QueenPriestess" src="https://github.com/user-attachments/assets/1f9f200b-2bbb-4f9f-b924-64e08138d97e" />
+
+
+
 ---
 
 ## Quick Start
